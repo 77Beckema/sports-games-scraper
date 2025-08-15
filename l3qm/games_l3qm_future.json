@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2025-08-15T22:12:21.632Z",
+  "games": [
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-16",
+      "time": "2:00 PM",
+      "home": "SENIOR VENTURI",
+      "away": "AS LAVAL",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-16",
+      "time": "4:00 PM",
+      "home": "BORÉAL D'ALMA",
+      "away": "NDGSA",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-16",
+      "time": "4:00 PM",
+      "home": "CS MONT-ROYAL OUTREMONT",
+      "away": "CS FURY DE RIMOUSKI",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-16",
+      "time": "6:00 PM",
+      "home": "CS HAUTE-ST-CHARLES",
+      "away": "CS LONGUEUIL",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-17",
+      "time": "11:00 AM",
+      "home": "FC ANJOU",
+      "away": "CS FURY DE RIMOUSKI",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620"
+    }
+  ]
+}

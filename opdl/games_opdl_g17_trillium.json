@@ -1,0 +1,255 @@
+{
+  "updatedAt": "2025-08-15T22:10:57.412Z",
+  "games": [
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 16",
+      "time": "9:00",
+      "home": "Burlington SC G17",
+      "away": "BVB IA Waterloo G17",
+      "venue": "City View Park Centre F2",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 16",
+      "time": "15:45",
+      "home": "Oakville G17",
+      "away": "Unionville Milliken G17",
+      "venue": "Pine Glen 1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 16",
+      "time": "15:45",
+      "home": "Tecumseh SC G17",
+      "away": "Aurora FC G17",
+      "venue": "Academie Ste. Cecile",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 16",
+      "time": "18:00",
+      "home": "Whitby FC G17",
+      "away": "Whitecaps London G17",
+      "venue": "Telus Dome (11v11)",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 23",
+      "time": "13:30",
+      "home": "Oakville G17",
+      "away": "Tecumseh SC G17",
+      "venue": "Pine Glen 1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 23",
+      "time": "15:45",
+      "home": "Aurora FC G17",
+      "away": "Whitecaps London G17",
+      "venue": "Stewart Burnett Park",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 23",
+      "time": "15:45",
+      "home": "Unionville Milliken G17",
+      "away": "BVB IA Waterloo G17",
+      "venue": "Bill Crothers Turf West",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 23",
+      "time": "15:45",
+      "home": "Burlington SC G17",
+      "away": "Whitby FC G17",
+      "venue": "City View Park Centre F2",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Aug 31",
+      "time": "13:30",
+      "home": "BVB IA Waterloo G17",
+      "away": "Oakville G17",
+      "venue": "RIM Park AF1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 6",
+      "time": "11:15",
+      "home": "Unionville Milliken G17",
+      "away": "Whitby FC G17",
+      "venue": "Bill Crothers Turf West",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 6",
+      "time": "11:15",
+      "home": "Oakville G17",
+      "away": "Burlington SC G17",
+      "venue": "Pine Glen 1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 6",
+      "time": "15:45",
+      "home": "BVB IA Waterloo G17",
+      "away": "Aurora FC G17",
+      "venue": "RIM Park AF1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 6",
+      "time": "18:00",
+      "home": "Tecumseh SC G17",
+      "away": "Whitecaps London G17",
+      "venue": "Academie Ste. Cecile",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 13",
+      "time": "11:15",
+      "home": "Whitecaps London G17",
+      "away": "Oakville G17",
+      "venue": "Citywide Field #1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 13",
+      "time": "11:15",
+      "home": "Aurora FC G17",
+      "away": "Unionville Milliken G17",
+      "venue": "Stewart Burnett Park",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 13",
+      "time": "13:30",
+      "home": "Tecumseh SC G17",
+      "away": "Burlington SC G17",
+      "venue": "Academie Ste. Cecile",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 13",
+      "time": "15:45",
+      "home": "Whitby FC G17",
+      "away": "BVB IA Waterloo G17",
+      "venue": "Telus Dome (11v11)",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 21",
+      "time": "9:00",
+      "home": "Aurora FC G17",
+      "away": "Oakville G17",
+      "venue": "Soccer Centre Indoor",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 21",
+      "time": "11:15",
+      "home": "Unionville Milliken G17",
+      "away": "Burlington SC G17",
+      "venue": "Soccer Centre Indoor",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 21",
+      "time": "13:30",
+      "home": "Whitby FC G17",
+      "away": "Tecumseh SC G17",
+      "venue": "Soccer Centre Indoor",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 21",
+      "time": "15:45",
+      "home": "Whitecaps London G17",
+      "away": "BVB IA Waterloo G17",
+      "venue": "Soccer Centre Indoor",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 27",
+      "time": "13:30",
+      "home": "Burlington SC G17",
+      "away": "Aurora FC G17",
+      "venue": "City View Park Centre F2",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 27",
+      "time": "13:30",
+      "home": "Oakville G17",
+      "away": "Whitby FC G17",
+      "venue": "Pine Glen 1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 27",
+      "time": "15:45",
+      "home": "Whitecaps London G17",
+      "away": "Unionville Milliken G17",
+      "venue": "1Password - St Thomas 11v11 A",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    },
+    {
+      "league": "OPDL",
+      "division": "G17Tri",
+      "date": "Sep 27",
+      "time": "15:45",
+      "home": "BVB IA Waterloo G17",
+      "away": "Tecumseh SC G17",
+      "venue": "RIM Park AF1",
+      "sourceUrl": "https://www.theopdl.com/Games_Schedules.aspx"
+    }
+  ]
+}
