@@ -1,0 +1,195 @@
+{
+  "updatedAt": "2025-08-22T00:07:54.577Z",
+  "games": [
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-22",
+      "time": "2",
+      "home": "Miami",
+      "away": "Tigres",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-22",
+      "time": "0",
+      "home": "Toluca",
+      "away": "Orlando",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-22",
+      "time": "0",
+      "home": "Seattle",
+      "away": "Puebla",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-22",
+      "time": "2",
+      "home": "A Galaxy",
+      "away": "Pachuca",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "7:30 PM",
+      "home": "Cincinnati",
+      "away": "New York City",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "7:30 PM",
+      "home": "Columbus",
+      "away": "New England",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "7:30 PM",
+      "home": "D.C. United",
+      "away": "Miami",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "7:30 PM",
+      "home": "Montréal",
+      "away": "Austin",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "7:30 PM",
+      "home": "Philadelphia",
+      "away": "Chicago",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "8:30 PM",
+      "home": "Dallas",
+      "away": "C",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "8:30 PM",
+      "home": "Houston",
+      "away": "San Jose",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "8:30 PM",
+      "home": "Nashville",
+      "away": "Orlando",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "9:30 PM",
+      "home": "Salt Lake",
+      "away": "Minnesota",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "9:30 PM",
+      "home": "Vancouver",
+      "away": "St. Louis",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "10:30 PM",
+      "home": "A Galaxy",
+      "away": "Colorado",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "10:30 PM",
+      "home": "San Diego",
+      "away": "Portland",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "4:00 PM",
+      "home": "Atlanta",
+      "away": "Toronto",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "7:00 PM",
+      "home": "Charlotte",
+      "away": "New York",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    },
+    {
+      "league": "MLS",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "9:15 PM",
+      "home": "Seattle",
+      "away": "Kansas City",
+      "venue": "",
+      "sourceUrl": "https://www.mlssoccer.com/schedule/scores#competition=all&club=all&date=2025-08-22"
+    }
+  ]
+}

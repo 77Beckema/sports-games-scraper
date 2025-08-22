@@ -1,0 +1,395 @@
+{
+  "updatedAt": "2025-08-22T00:07:14.031Z",
+  "games": [
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "8:30 PM",
+      "home": "CS MONTREAL CENTRE",
+      "away": "UNION LANAUDIÈRE SUD",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-27",
+      "time": "8:30 PM",
+      "home": "CS TRIDENT",
+      "away": "CS TROIS-RIVIÈRES",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-27",
+      "time": "9:00 PM",
+      "home": "PHÉNIX DES RIVIÈRES",
+      "away": "",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "4:30 PM",
+      "home": "CS LÉVIS-EST",
+      "away": "ST-JÉRÔME",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "6:00 PM",
+      "home": "CS ROUSSILLON",
+      "away": "AS GATINEAU",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "6:00 PM",
+      "home": "CS TRIDENT",
+      "away": "AS BROSSARD",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "6:00 PM",
+      "home": "MISTRAL DE SHERBROOKE",
+      "away": "CS TROIS-RIVIÈRES",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "6:30 PM",
+      "home": "CS LASALLE",
+      "away": "CS ST-LAZARE HUDSON",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "7:00 PM",
+      "home": "PHÉNIX DES RIVIÈRES",
+      "away": "AS ST-LÉONARD",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "7:00 PM",
+      "home": "CS MONTREAL CENTRE",
+      "away": "",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "7:00 PM",
+      "home": "UNION LANAUDIÈRE SUD",
+      "away": "CS BOUCHERVILLE",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "7:00 PM",
+      "home": "CS RIVIÈRES-DES-PRAIRIES",
+      "away": "LAKESHORE SC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "7:00 PM",
+      "home": "C.S. BRAVES AHUNTSIC MCFC",
+      "away": "RÉVOLUTION FC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "8:00 PM",
+      "home": "AS MONTIS",
+      "away": "PANELLINIOS ST-MICHEL FC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "8:00 PM",
+      "home": "AS CHAUDIÈRE-OUEST",
+      "away": "BORÉAL FC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:00 PM",
+      "home": "RÉVOLUTION FC",
+      "away": "AS CHAUDIÈRE-OUEST",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:00 PM",
+      "home": "CS BOUCHERVILLE",
+      "away": "",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:00 PM",
+      "home": "AS ST-LÉONARD",
+      "away": "MISTRAL DE SHERBROOKE",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:00 PM",
+      "home": "AS GATINEAU",
+      "away": "PHÉNIX DES RIVIÈRES",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:00 PM",
+      "home": "AS BROSSARD",
+      "away": "CS LÉVIS-EST",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:30 PM",
+      "home": "ST-JÉRÔME",
+      "away": "CS ROUSSILLON",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "6:30 PM",
+      "home": "PANELLINIOS ST-MICHEL FC",
+      "away": "CS ST-LAZARE HUDSON",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "7:00 PM",
+      "home": "CS TROIS-RIVIÈRES",
+      "away": "UNION LANAUDIÈRE SUD",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "7:00 PM",
+      "home": "LAKESHORE SC",
+      "away": "CS TRIDENT",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "8:00 PM",
+      "home": "BORÉAL FC",
+      "away": "CS LASALLE",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "8:00 PM",
+      "home": "AS MONTIS",
+      "away": "CS RIVIÈRES-DES-PRAIRIES",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "9:00 PM",
+      "home": "CS MONTREAL CENTRE",
+      "away": "C.S. BRAVES AHUNTSIC MCFC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-10",
+      "time": "8:30 PM",
+      "home": "CS ST-LAZARE HUDSON",
+      "away": "BORÉAL FC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "3:00 PM",
+      "home": "C.S. BRAVES AHUNTSIC MCFC",
+      "away": "CS BOUCHERVILLE",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "4:00 PM",
+      "home": "MISTRAL DE SHERBROOKE",
+      "away": "AS GATINEAU",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "4:30 PM",
+      "home": "CS LÉVIS-EST",
+      "away": "LAKESHORE SC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "6:00 PM",
+      "home": "CS TRIDENT",
+      "away": "AS MONTIS",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "6:00 PM",
+      "home": "CS ROUSSILLON",
+      "away": "AS BROSSARD",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "6:30 PM",
+      "home": "CS LASALLE",
+      "away": "RÉVOLUTION FC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "7:00 PM",
+      "home": "CS TROIS-RIVIÈRES",
+      "away": "",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "7:00 PM",
+      "home": "PHÉNIX DES RIVIÈRES",
+      "away": "ST-JÉRÔME",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "7:00 PM",
+      "home": "UNION LANAUDIÈRE SUD",
+      "away": "AS ST-LÉONARD",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "7:00 PM",
+      "home": "CS RIVIÈRES-DES-PRAIRIES",
+      "away": "PANELLINIOS ST-MICHEL FC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    },
+    {
+      "league": "L2QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "8:00 PM",
+      "home": "AS CHAUDIÈRE-OUEST",
+      "away": "CS MONTREAL CENTRE",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue2-quebec/schedule-stats-standings/dde108d6-7545-4e87-9e6f-f7a9b64028e7?scheduleId=176516&tab=schedule"
+    }
+  ]
+}

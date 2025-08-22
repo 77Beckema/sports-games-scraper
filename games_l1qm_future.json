@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2025-08-22T00:06:47.045Z",
+  "games": [
+    {
+      "league": "L1QM",
+      "division": "",
+      "date": "2025-08-22",
+      "time": "8:00 PM",
+      "home": "CS ST-HUBERT",
+      "away": "CS ST-LAURENT",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue-1-qc/schedule-stats-standings/27041e19-6ab9-43ab-8c8d-9ce2698ee512"
+    },
+    {
+      "league": "L1QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "6:30 PM",
+      "home": "OTTAWA SOUTH UNITED",
+      "away": "AS BLAINVILLE",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue-1-qc/schedule-stats-standings/27041e19-6ab9-43ab-8c8d-9ce2698ee512"
+    },
+    {
+      "league": "L1QM",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "3:00 PM",
+      "home": "ROYAL BEAUPORT",
+      "away": "FC LAVAL",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue-1-qc/schedule-stats-standings/27041e19-6ab9-43ab-8c8d-9ce2698ee512"
+    },
+    {
+      "league": "L1QM",
+      "division": "",
+      "date": "2025-08-31",
+      "time": "12:00 AM",
+      "home": "CS ST-LAURENT",
+      "away": "LIGUE1 QUÉBEC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue-1-qc/schedule-stats-standings/27041e19-6ab9-43ab-8c8d-9ce2698ee512"
+    },
+    {
+      "league": "L1QM",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "8:00 AM",
+      "home": "LIGUE1 QUÉBEC",
+      "away": "Face à Face",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue-1-qc/schedule-stats-standings/27041e19-6ab9-43ab-8c8d-9ce2698ee512"
+    }
+  ]
+}

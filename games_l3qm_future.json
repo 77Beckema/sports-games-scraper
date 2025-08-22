@@ -1,0 +1,125 @@
+{
+  "updatedAt": "2025-08-22T00:07:34.428Z",
+  "games": [
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "1:00 PM",
+      "home": "CS MONT-ROYAL OUTREMONT",
+      "away": "CS TITANS",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "4:00 PM",
+      "home": "BORÉAL D'ALMA",
+      "away": "CHEVALIERS NDMC",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "4:00 PM",
+      "home": "FC ANJOU",
+      "away": "",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "5:00 PM",
+      "home": "CS HAUTE-ST-CHARLES",
+      "away": "AS LAVAL",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "5:00 PM",
+      "home": "CELTIX HAUT-RICHELIEU",
+      "away": "CS FURY DE RIMOUSKI",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "6:00 PM",
+      "home": "BLIZZ'OR",
+      "away": "MONDIAL DE RIVIÈRE-DU-LOUP",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "12:00 PM",
+      "home": "BLIZZ'OR",
+      "away": "CS FURY DE RIMOUSKI",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "2:00 PM",
+      "home": "CS LONGUEUIL",
+      "away": "MONDIAL DE RIVIÈRE-DU-LOUP",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-27",
+      "time": "9:00 PM",
+      "home": "NDGSA",
+      "away": "AS LAVAL",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-31",
+      "time": "8:00 PM",
+      "home": "CS LONGUEUIL",
+      "away": "FC ANJOU",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-08-31",
+      "time": "9:00 PM",
+      "home": "CS TITANS",
+      "away": "NDGSA",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    },
+    {
+      "league": "L3QM",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "8:00 PM",
+      "home": "CS LONGUEUIL",
+      "away": "AS LAVAL",
+      "venue": "",
+      "sourceUrl": "https://page.spordle.com/fr/ligue3-quebec/schedule-stats-standings/6dd30500-d6f0-497e-8228-ad8a7ca140cc?scheduleId=176620&tab=schedule"
+    }
+  ]
+}

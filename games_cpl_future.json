@@ -1,0 +1,365 @@
+{
+  "updatedAt": "2025-08-22T00:07:48.489Z",
+  "games": [
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-17",
+      "time": "6:00 PM",
+      "home": "HFX Wanderers",
+      "away": "Valour",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-17",
+      "time": "10:00 PM",
+      "home": "Vancouver FC",
+      "away": "Forge",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-22",
+      "time": "7:00 PM",
+      "home": "Atlético Ottawa",
+      "away": "Cavalry",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-23",
+      "time": "4:00 PM",
+      "home": "York United",
+      "away": "Pacific",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "4:00 PM",
+      "home": "Cavalry",
+      "away": "Forge",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "7:00 PM",
+      "home": "Atlético Ottawa",
+      "away": "Vancouver FC",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-30",
+      "time": "3:00 PM",
+      "home": "Valour",
+      "away": "Pacific",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-08-31",
+      "time": "3:00 PM",
+      "home": "HFX Wanderers",
+      "away": "York United",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-01",
+      "time": "7:30 PM",
+      "home": "York United",
+      "away": "Cavalry",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-01",
+      "time": "10:30 PM",
+      "home": "Vancouver FC",
+      "away": "Valour",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-05",
+      "time": "4:00 PM",
+      "home": "Forge",
+      "away": "HFX Wanderers",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-05",
+      "time": "7:00 PM",
+      "home": "Atlético Ottawa",
+      "away": "Pacific",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-06",
+      "time": "8:00 PM",
+      "home": "Valour",
+      "away": "Forge",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-12",
+      "time": "4:00 PM",
+      "home": "Cavalry",
+      "away": "HFX Wanderers",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-12",
+      "time": "7:00 PM",
+      "home": "Pacific",
+      "away": "Vancouver FC",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-13",
+      "time": "2:00 PM",
+      "home": "York United",
+      "away": "Atlético Ottawa",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-14",
+      "time": "3:00 PM",
+      "home": "HFX Wanderers",
+      "away": "Pacific",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-14",
+      "time": "6:00 PM",
+      "home": "Cavalry",
+      "away": "Valour",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-20",
+      "time": "3:00 PM",
+      "home": "Atlético Ottawa",
+      "away": "Forge",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-20",
+      "time": "6:00 PM",
+      "home": "Vancouver FC",
+      "away": "York United",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-21",
+      "time": "1:00 PM",
+      "home": "Atlético Ottawa",
+      "away": "Cavalry",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-21",
+      "time": "4:00 PM",
+      "home": "Forge",
+      "away": "Pacific",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-27",
+      "time": "3:00 PM",
+      "home": "York United",
+      "away": "Valour",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-27",
+      "time": "6:00 PM",
+      "home": "Vancouver FC",
+      "away": "HFX Wanderers",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-28",
+      "time": "2:00 PM",
+      "home": "HFX Wanderers",
+      "away": "York United",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-09-28",
+      "time": "4:30 PM",
+      "home": "Forge",
+      "away": "Vancouver FC",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-04",
+      "time": "3:00 PM",
+      "home": "Valour",
+      "away": "Atlético Ottawa",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-04",
+      "time": "6:00 PM",
+      "home": "Pacific",
+      "away": "Cavalry",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-05",
+      "time": "7:30 PM",
+      "home": "York United",
+      "away": "Pacific",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-09",
+      "time": "9:30 PM",
+      "home": "Cavalry",
+      "away": "Forge",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-10",
+      "time": "3:00 PM",
+      "home": "Valour",
+      "away": "HFX Wanderers",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-11",
+      "time": "3:00 PM",
+      "home": "Atlético Ottawa",
+      "away": "Vancouver FC",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-12",
+      "time": "4:00 PM",
+      "home": "Pacific",
+      "away": "Valour",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-12",
+      "time": "4:00 PM",
+      "home": "Vancouver FC",
+      "away": "Cavalry",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-12",
+      "time": "4:00 PM",
+      "home": "Forge",
+      "away": "York United",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    },
+    {
+      "league": "CPL",
+      "division": "",
+      "date": "2025-10-12",
+      "time": "4:00 PM",
+      "home": "HFX Wanderers",
+      "away": "Atlético Ottawa",
+      "venue": "",
+      "sourceUrl": "https://canpl.ca/schedule/index"
+    }
+  ]
+}
