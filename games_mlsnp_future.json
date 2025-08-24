@@ -1,0 +1,65 @@
+{
+  "updatedAt": "2025-08-24T15:41:44.473Z",
+  "games": [
+    {
+      "league": "MLSNP",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "3:00 PM",
+      "home": "Philadelphia Union II",
+      "away": "New England Revolution II",
+      "venue": "",
+      "sourceUrl": "https://www.mlsnextpro.com/schedule/"
+    },
+    {
+      "league": "MLSNP",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "7:00 PM",
+      "home": "Y II",
+      "away": "Chicago Fire FC II",
+      "venue": "",
+      "sourceUrl": "https://www.mlsnextpro.com/schedule/"
+    },
+    {
+      "league": "MLSNP",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "7:00 PM",
+      "home": "St Louis CITY2",
+      "away": "Sporting KC II",
+      "venue": "",
+      "sourceUrl": "https://www.mlsnextpro.com/schedule/"
+    },
+    {
+      "league": "MLSNP",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "8:45 PM",
+      "home": "North Texas SC",
+      "away": "C 2",
+      "venue": "",
+      "sourceUrl": "https://www.mlsnextpro.com/schedule/"
+    },
+    {
+      "league": "MLSNP",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "9:30 PM",
+      "home": "Real Monarchs",
+      "away": "C2",
+      "venue": "",
+      "sourceUrl": "https://www.mlsnextpro.com/schedule/"
+    },
+    {
+      "league": "MLSNP",
+      "division": "",
+      "date": "2025-08-24",
+      "time": "11:00 PM",
+      "home": "Timbers2",
+      "away": "Tacoma Defiance",
+      "venue": "",
+      "sourceUrl": "https://www.mlsnextpro.com/schedule/"
+    }
+  ]
+}
